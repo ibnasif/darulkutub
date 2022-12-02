@@ -91,5 +91,5 @@ the belief that ' i am not enough ' is one of the most destructive and inaccurat
 
 #### ''communities in the true sense barely exist anymore. individuals and families who share common basic values and goals, who partake in each other's joy and griefs, where each knows the other by name, history, weakness and strength''
 
-### ''by understanding acurately his proper place in creation, a man may be made whole''
+#### ''by understanding accurately his proper place in creation, a man may be made whole''
 
