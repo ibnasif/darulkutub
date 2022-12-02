@@ -1,0 +1,4 @@
+- [[obsession]] - consumes a good deal of your time, energy and attention + you'l do anything to facilitate getting your addiction
+- [[negative consequences]] - it turns against you, behaviour has bad impacts yet you keep doing it anyway
+- [[lack of control]]
+- [[denial]]

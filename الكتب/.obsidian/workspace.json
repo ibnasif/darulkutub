@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "eebcbdcd7ec23001",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ca33489d045cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50074a434f8e90f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5c32c8d0cf7cf9bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Willpower's Not Enough/+/addictions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5afcabea868b0f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Willpower's Not Enough/+/recovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd75347e2487deb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e419f13993fa2193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98e4abfa1fbb065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ac4a7f0827adc80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a74c087fb1afefd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9f0a71b0869e18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d9b498cc44c935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b4bb4efd56a0bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b87ba9aa5b3e278",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cedb492ec6e35bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54fe7e38a3f50781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Willpower's Not Enough/Willpower's Not Enough.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "active": "50074a434f8e90f6",
+  "lastOpenFiles": [
+    "Willpower's Not Enough/+/addictions.md",
+    "Willpower's Not Enough/+/recovery.md",
+    "Willpower's Not Enough/+/what do addictions do for us.md",
+    "Willpower's Not Enough/+/what is the addict seeking.md",
+    "Willpower's Not Enough/+/symptoms of addiction.md",
+    "Willpower's Not Enough/+/addictive disease.md",
+    "Willpower's Not Enough/Willpower's Not Enough.md",
+    "Willpower's Not Enough/+/inadequate coping skills.md",
+    "lack of control.md",
+    "addictive belief system.md"
+  ]
+}
