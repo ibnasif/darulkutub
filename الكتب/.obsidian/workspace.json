@@ -4,51 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "49ca33489d045cd6",
+        "id": "70ab24171481b535",
         "type": "tabs",
         "children": [
           {
-            "id": "50074a434f8e90f6",
+            "id": "16f2f8ca9fe00af1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "file": "Templates/book template.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "5c32c8d0cf7cf9bc",
+            "id": "aeb1c0d6d4f9a8af",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willpower's Not Enough/+/addictions.md",
+                "file": "Atomic Habits/+/habits.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "62d80c7edf6dc7fe",
+            "id": "a8276aa1c6e1c216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "file": "Atomic Habits/Atomic Habits.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "file": "Atomic Habits/+/habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Willpower's Not Enough/Willpower's Not Enough.md",
+                "file": "Atomic Habits/+/habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,27 +150,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willpower's Not Enough/Willpower's Not Enough.md"
+                "file": "Atomic Habits/+/habits.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
-  "active": "62d80c7edf6dc7fe",
+  "active": "aeb1c0d6d4f9a8af",
   "lastOpenFiles": [
-    "Willpower's Not Enough/+/addictions.md",
+    "Atomic Habits/Atomic Habits.md",
+    "Atomic Habits/+/habits.md",
+    "Templates/book template.md",
     "Willpower's Not Enough/Willpower's Not Enough.md",
+    "Thoughts/entertainment and distraction.md",
+    "Willpower's Not Enough/+/addictions.md",
     "Willpower's Not Enough/+/recovery.md",
     "Willpower's Not Enough/+/what do addictions do for us.md",
     "Willpower's Not Enough/+/what is the addict seeking.md",
-    "Willpower's Not Enough/+/symptoms of addiction.md",
-    "Willpower's Not Enough/+/addictive disease.md",
-    "Willpower's Not Enough/+/inadequate coping skills.md",
-    "lack of control.md",
-    "addictive belief system.md"
+    "Willpower's Not Enough/+/symptoms of addiction.md"
   ]
 }
