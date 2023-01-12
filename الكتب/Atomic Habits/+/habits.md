@@ -31,3 +31,4 @@ atomic
 habit
 1. a routine or practice performed regularly; an automatic response to a specific situation
 
+#### [[how habits work]]

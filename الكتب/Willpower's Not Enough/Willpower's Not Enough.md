@@ -63,8 +63,7 @@ two key features of addiction are denial and secrecy.
 
 - since 1950s, baby boomers were the first generation to be raised on television
 - previous generations were reared in a slower-paced culture where reading required a certain amount of effort and perserverance 
-- television provided instant 
-- distraction and no effort was needed, one doesn't have to feel feelings
+- television provided instant distraction and no effort was needed, one doesn't have to feel feelings
 - tv distracts from feelings yet simultaneously stimulates 
 
 - the rise of tvs also led to exposure of the same messages, ads, themes and role models to all children.
