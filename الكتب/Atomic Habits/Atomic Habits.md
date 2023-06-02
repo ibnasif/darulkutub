@@ -25,7 +25,7 @@ tags: #nonfiction #habits #productivity #selfhelp #book
 - if you study Arabic for an hour tonight, you still haven't learned the language
 - if you go to the gym three days in a row, you're still not ripped
 
-sadly, the slow pace of habits showing their effects has a negative impact on bad habits. it makes it easy to led bad habits slide
+sadly, the slow pace of habits showing their effects has a negative impact on bad habits. it makes it easy to let bad habits slide
 
 - eat an unheathy meal today and the scale won't move a lot
 - work late tonight and ignore your family and they'll still forgive you
@@ -69,7 +69,7 @@ goals are best for setting a direction but a system is best for making progress
 
 #### #4 goals are at odds with long term progress
 - once goal is achieved, what next?
-- runners work hard for months, but as soon as they cros the finishing line they stop training as th race is no longer there to motivate 
+- runners work hard for months, but as soon as they cross the finishing line they stop training as the race is no longer there to motivate 
 - the purpose of setting goals is to win the game, purpose of building systems is to continue playing the game.
 
 **true long term thinking is goaless thinking.

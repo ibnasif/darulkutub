@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/Atomic Habits.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/Atomic Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/Atomic Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Habits/+/challenge of changing our habits.md"
+                "file": "Atomic Habits/Atomic Habits.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98e4abfa1fbb065",
+  "active": "12ab14d5b4093cc1",
   "lastOpenFiles": [
+    "Atomic Habits/+/challenge of changing our habits.md",
     "Atomic Habits/+/practical methods of de-establishing habits.md",
     "Atomic Habits/+/bad habits.md",
     "Untitled.md",
@@ -169,7 +170,6 @@
     "Atomic Habits/+/practical methods of establishing habits.md",
     "Atomic Habits/+/implementation intention.md",
     "Atomic Habits/+/habits.md",
-    "Atomic Habits/+/challenge of changing our habits.md",
     "Atomic Habits/Atomic Habits.md",
     "Pasted image 20230602211407.png",
     "Pasted image 20230602211410.png",
