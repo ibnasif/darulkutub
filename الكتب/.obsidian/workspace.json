@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/+/challenge of changing our habits.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/+/challenge of changing our habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Atomic Habits/+/challenge of changing our habits.md",
+                "file": "Atomic Habits/+/challenge of changing our habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Atomic Habits/+/challenge of changing our habits.md"
+                "file": "Atomic Habits/+/challenge of changing our habits.md"
               }
             }
           }
@@ -155,30 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ab14d5b4093cc1",
+  "active": "d98e4abfa1fbb065",
   "lastOpenFiles": [
-    "Books/Atomic Habits/+/practical methods of de-establishing habits.md",
-    "Books/Atomic Habits/+/bad habits.md",
+    "Atomic Habits/+/practical methods of de-establishing habits.md",
+    "Atomic Habits/+/bad habits.md",
     "Untitled.md",
     "Books",
     "Untitled.canvas",
-    "Miscellaneous",
+    "-",
     "02--06-2023.md",
-    "Books/Atomic Habits/+/how habits work.md",
-    "Books/Atomic Habits/+/design your environment.md",
-    "Books/Atomic Habits/+/practical methods of establishing habits.md",
-    "Books/Atomic Habits/+/implementation intention.md",
-    "Books/Atomic Habits/+/habits.md",
-    "Books/Atomic Habits/+/challenge of changing our habits.md",
-    "Books/Atomic Habits/Atomic Habits.md",
+    "Atomic Habits/+/how habits work.md",
+    "Atomic Habits/+/design your environment.md",
+    "Atomic Habits/+/practical methods of establishing habits.md",
+    "Atomic Habits/+/implementation intention.md",
+    "Atomic Habits/+/habits.md",
+    "Atomic Habits/+/challenge of changing our habits.md",
+    "Atomic Habits/Atomic Habits.md",
     "Pasted image 20230602211407.png",
     "Pasted image 20230602211410.png",
-    "Books/Atomic Habits/+/habit stacking.md",
-    "Books/Atomic Habits/+/1% -.png",
+    "Atomic Habits/+/habit stacking.md",
+    "Atomic Habits/+/1% -.png",
     "Pasted image 20230112200627.png",
-    "Books/Willpower's Not Enough/+/addictions.md",
-    "Miscellaneous/Templates/book template.md",
-    "Books/Willpower's Not Enough/Willpower's Not Enough.md",
-    "Miscellaneous/Thoughts/entertainment and distraction.md"
+    "Willpower's Not Enough/+/addictions.md",
+    "-/Templates/book template.md",
+    "Willpower's Not Enough/Willpower's Not Enough.md",
+    "-/Thoughts/entertainment and distraction.md"
   ]
 }
