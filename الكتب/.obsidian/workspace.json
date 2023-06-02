@@ -11,7 +11,7 @@
             "id": "12ab14d5b4093cc1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b94e5edf62f7d78f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -139,14 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ab14d5b4093cc1",
+  "active": "d98e4abfa1fbb065",
   "lastOpenFiles": [
-    "Atomic Habits/+/implementation intention.md",
-    "Atomic Habits/+/practical methods of establishing habits.md",
-    "Atomic Habits/Atomic Habits.md",
-    "Pasted image 20230112200627.png",
+    "02--06-2023.md",
+    "Untitled.canvas",
     "Atomic Habits/+/how habits work.md",
+    "Atomic Habits/+/bad habits.md",
+    "Atomic Habits/+/design your environment.md",
+    "Atomic Habits/+/practical methods of de-establishing habits.md",
+    "Atomic Habits/+/practical methods of establishing habits.md",
+    "Atomic Habits/+/implementation intention.md",
     "Atomic Habits/+/habits.md",
+    "Atomic Habits/+/challenge of changing our habits.md",
+    "Atomic Habits/Atomic Habits.md",
+    "Pasted image 20230602211407.png",
+    "Pasted image 20230602211410.png",
+    "Atomic Habits/+/habit stacking.md",
+    "Atomic Habits/+/1% -.png",
+    "Pasted image 20230112200627.png",
     "Willpower's Not Enough/+/addictions.md",
     "Templates/book template.md",
     "Willpower's Not Enough/Willpower's Not Enough.md",

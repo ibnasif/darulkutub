@@ -2,7 +2,7 @@
 ##### authors: james clear
 ##### pages: 306
 
-notes: [[habits]], [[how habits work]], [[practical methods of establishing habits]]
+notes: [[habits]], [[how habits work]], [[practical methods of establishing habits]], [[challenge of changing our habits]]
 tags: #nonfiction #habits #productivity #selfhelp #book
 
 13--12-2022
@@ -78,4 +78,8 @@ it's about the cycle of endless refinement and continuous improvement.**
 
 ## [[how habits work]]
 
+## [[challenge of changing our habits]] 
+
 ## [[practical methods of establishing habits]]
+
+## [[practical methods of de-establishing habits]]
