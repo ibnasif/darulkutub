@@ -22,7 +22,7 @@ Grade: **_Sahih_** (authentic) according to Al-Albani
 3437 المحدث الألباني خلاصة حكم المحدث صحيح في صحيح ابن ماجه
 
 
-#### [[atomic habits]] on habits
+#### [[Atomic Habits]] on habits
 
 atomic 
 1. an extremely small amount of a thing; the single irreducible unit of a larger system
